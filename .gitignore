@@ -1,0 +1,14 @@
+#Datei.o
+*.o
+#build-Verzeichnis
+build/
+#Sicherungsdateien
+*~
+#PDF Dateien
+*.pdf
+#executables
+1
+2
+3
+4
+
